@@ -1,0 +1,11 @@
+{
+  "name": "refactoring-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SanghoLee-dev/refactoring-study.git",
+  "author": "sangho lee <sangholee.dev@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
