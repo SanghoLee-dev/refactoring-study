@@ -1,7 +1,4 @@
 export class Person {
-    _name;
-    _department;
-
     constructor(name, department) {
         this._name = name;
         this._department = department;

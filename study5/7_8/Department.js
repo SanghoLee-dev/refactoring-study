@@ -1,7 +1,4 @@
 export class Department {
-    _chargeCode;
-    _manager;
-
     constructor(chargeCode, manager) {
         this._chargeCode = chargeCode;
         this._manager = manager;
